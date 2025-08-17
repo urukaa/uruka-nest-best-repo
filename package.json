@@ -1,8 +1,8 @@
 {
-  "name": "nest",
-  "version": "0.0.1",
+  "name": "uruka-base",
+  "version": "11",
   "description": "",
-  "author": "",
+  "author": "uruka",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
